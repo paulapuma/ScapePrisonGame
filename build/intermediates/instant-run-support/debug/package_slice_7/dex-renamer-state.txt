@@ -1,0 +1,4 @@
+#Tue Jan 22 04:25:39 CET 2019
+base.0=C\:\\Users\\Paula\\Desktop\\uni4\\DSA\\ScapePrision\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
